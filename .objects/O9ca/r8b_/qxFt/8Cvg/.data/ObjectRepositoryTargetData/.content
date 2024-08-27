@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NHIDhDrHUk6-WoVv-2Wh-g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/login" CVScreenId="68e7a6f2-d7ed-4281-a845-ba31a99135a9" CvElementArea="206, 820, 24, 23" CvTextArea="233, 822, 145, 19" CvTextArgument="Remember Me" CvType="CheckBox" DesignTimeRectangle="210, 815, 727, 40" DesignTimeScaleFactor="1.5" ElementType="CheckBox" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div' idx='3' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' class='controls form-check' tag='DIV' aaname='                                                                                                           ' /&gt;" Guid="eef9a65e-30d1-4062-985c-6bc6996ab119" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4646893785e40203183fabcc1f317403.png" xmlns="">04SSqew_Sq02ctL5j9FT2sQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Remember Me",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "8CvgP9P5QEWD-wkBQNUHwQ",
+  "Reference": "s0B3RK3hFU6Yptiw_hRWyQ/8CvgP9P5QEWD-wkBQNUHwQ",
+  "ParentRef": "s0B3RK3hFU6Yptiw_hRWyQ/qxFtjAmpNEG3YPordTik7Q",
+  "Created": "2024-08-17T22:14:06.0375959Z",
+  "Updated": "2024-08-17T22:14:06.0375959Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

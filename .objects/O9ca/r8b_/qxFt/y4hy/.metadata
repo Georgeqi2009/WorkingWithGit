@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Register",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "y4hy69_CIE-hRHSsyFOXLQ",
+  "Reference": "s0B3RK3hFU6Yptiw_hRWyQ/y4hy69_CIE-hRHSsyFOXLQ",
+  "ParentRef": "s0B3RK3hFU6Yptiw_hRWyQ/qxFtjAmpNEG3YPordTik7Q",
+  "Created": "2024-08-17T22:14:06.1384997Z",
+  "Updated": "2024-08-17T22:14:06.1384997Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

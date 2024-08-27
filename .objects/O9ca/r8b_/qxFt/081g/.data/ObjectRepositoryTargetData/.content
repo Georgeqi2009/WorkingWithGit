@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lzuZWZcuVkKheDgxdEUE5g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/login" CVScreenId="68e7a6f2-d7ed-4281-a845-ba31a99135a9" CvElementArea="1742, 21, 32, 27" CvType="MinimizeButton" DesignTimeRectangle="1724, 11, 69, 51" DesignTimeScaleFactor="1.5" ElementType="Button" FullSelectorArgument="&lt;ctrl name='ACME System 1 - Log In - Microsoft Edge' role='pane' /&gt;&lt;ctrl name='Minimize' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ACME System 1 - Log In - Microsoft Edge' role='pane' /&gt;&lt;ctrl name='Minimize' role='push button' automationid='' check:text='Minimize' /&gt;" Guid="15590037-d6b3-475d-9180-f598d365a2e9" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAEkAAAA3CAYAAABAW2dtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAACkSURBVGhD7dMxCsQwDADB/N8f9Q9c+lJeEZLl4EgzgmlUqFjQcc7m0eWSb3POzT2RApECkQKRApECkQKRApECkQKRApECkQKRApECkQKRApECkQKRApECkQKRApGCVyKNMX52de/fRAq8WyBSIFIgUiBSIFIgUiBSIFIgUiBSIFIgUiBSIFIgUiBSIFIgUiBSIFIgUiBSIFIgUnCstTb3RHq09gfUn7JqiK2duAAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Log In - Personal - Microsoft​ Edge' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4323b3f496aee4d7b596840c10913fdb.png" xmlns="">0Kk8-2smgHUuYPvO4RvhrMA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

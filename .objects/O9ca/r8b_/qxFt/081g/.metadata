@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Minimize",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "081gN4LgTUqjbMYdH1uX9Q",
+  "Reference": "s0B3RK3hFU6Yptiw_hRWyQ/081gN4LgTUqjbMYdH1uX9Q",
+  "ParentRef": "s0B3RK3hFU6Yptiw_hRWyQ/qxFtjAmpNEG3YPordTik7Q",
+  "Created": "2024-08-17T22:14:06.178446Z",
+  "Updated": "2024-08-17T22:14:06.178446Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
